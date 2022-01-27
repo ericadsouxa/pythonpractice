@@ -12,10 +12,10 @@ t1 = turtle.Turtle()
 s = turtle.Screen()
 
 # set background color of the screen
-s.bgcolor("green")
+s.bgcolor("blue")
 
 # obtain current hour, minute and second
-# from the system
+
 sec = dt.datetime.now().second
 min = dt.datetime.now().minute
 hr = dt.datetime.now().hour
