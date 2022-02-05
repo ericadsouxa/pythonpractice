@@ -1,3 +1,9 @@
+#pdf maker using python 
+#requirements :- pip install fpdf (command on terminal of your IDE)
+# can use latest version fpdf2 
+
+
+#import module
 from fpdf import FPDF
 
 pdf= FPDF()
