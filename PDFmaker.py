@@ -32,6 +32,7 @@ pdf= FPDF()
 pdf.add_page()
 
 #adds font
+#adds font size
 pdf.set_font("Arial", size = 15)
 
 #adds text(cell1)
